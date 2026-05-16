@@ -1,28 +1,22 @@
-## Hi there 👋
 
+<div><!-- painel com meu nome -->
 <p align="center">
   <a href="https://github.com/rickszsantos">
+    <img width="500" height="132" alt="Image" src="https://github.com/user-attachments/assets/479b97c0-e795-4a8d-a50c-4c09744aeeb3" /></a>
+</p>
 
-   Henrique Santos
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bemvindo+ao+meu+GitHub;Desenvolvedor+Full+Stack;Sempre+aprendendo+coisas+novas&font=Fira%20Code&center=true&width=440&height=45&color=0075ff&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+</dir>
 
 
 
 
-
-
+<!-- painel de redes sociais -->
 <p align="center">
-  <a href="https://github.com/rickszsantos">
-    <img src="https://github.com/user-attachments/assets/31f13112-0899-488b-aa37-26fd053ab61" alt="Henrique Santos" /></a>
-</p>
-
-
-
-
-
-
-
 <a href="https://www.linkedin.com/in/carlos-henrique-santos-pelegrini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carloshenriquesantospelegrini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_henriquepelegrini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,20 +27,21 @@
             src="https://custom-icon-badges.demolab.com/github/followers/rickszsantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    </p>
 
 
 
 
 
-
+<div> 
+ 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickszsantos/rickszsantos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickszsantos/rickszsantos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickszsantos/rickszsantos/output/github-contribution-grid-snake.svg">
+  <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/pdrChaves/pdrChaves/output/github-contribution-grid-snake-dark.svg">
+  <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/pdrChaves/pdrChaves/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pdrChaves/pdrChaves/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-
-
+  
+</div>
 
 <!--
 **rickszsantos/rickszsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
