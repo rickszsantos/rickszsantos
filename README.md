@@ -2,7 +2,7 @@
 <div><!-- painel com meu nome -->
 <p align="center">
   <a href="https://github.com/rickszsantos">
-    <img width="500" height="132" alt="Image" src="https://github.com/user-attachments/assets/479b97c0-e795-4a8d-a50c-4c09744aeeb3" /></a>
+    <img width="499" height="80" alt="Image" src="https://github.com/user-attachments/assets/89cba1c4-e6e7-41f0-959f-b3936203a66d" /></a>
 </p>
 
 <p align="center">
@@ -36,9 +36,9 @@
 <div> 
  
 <picture>
-  <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/pdrChaves/pdrChaves/output/github-contribution-grid-snake-dark.svg">
-  <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/pdrChaves/pdrChaves/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pdrChaves/pdrChaves/output/github-contribution-grid-snake-dark.svg">
+  <source media="prefers-color-scheme: dark" srcset="https://raw.githubusercontent.com/rickszsantos/rickszsantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/rickszsantos/rickszsantos/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickszsantos/rickszsantos/output/github-contribution-grid-snake-dark.svg">
 </picture>
   
 </div>
