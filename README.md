@@ -2,11 +2,20 @@
 
 <p align="center">
   <a href="https://github.com/rickszsantos">
+
    Henrique Santos
   </a>
 </p>
 
 
+
+
+
+
+<p align="center">
+  <a href="https://github.com/rickszsantos">
+    <img src="https://github.com/user-attachments/assets/31f13112-0899-488b-aa37-26fd053ab61" alt="Henrique Santos" /></a>
+</p>
 
 
 
